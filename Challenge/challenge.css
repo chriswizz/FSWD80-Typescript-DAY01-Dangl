@@ -1,0 +1,25 @@
+.jumbotron {
+	background: url("hero.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	overflow: hidden;
+	color: white;
+}
+
+.checked {
+  color: orange;
+}
+
+.output {
+	font-size: 2rem;
+}
+
+.img-container {
+	overflow: hidden;
+}
+
+.img-container img {
+	width: 100%;
+	object-fit: cover;
+}
